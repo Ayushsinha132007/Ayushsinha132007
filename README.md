@@ -13,7 +13,7 @@
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/xayush/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/in/xayush/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)]https://ayushhhportfolio.vercel.app
 
@@ -64,3 +64,19 @@
 ## 📊 GitHub Stats
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushsinha132007&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+## 🎯 2026 Goals
+
+- 🚀 Build scalable full stack applications
+- 📚 Solve 500+ DSA Questions
+- 🌐 Contribute to Open Source
+- ☁️ Learn AWS & Docker
+- 💼 Crack Product Based Company
